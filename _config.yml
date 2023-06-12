@@ -8,10 +8,10 @@ remote_theme: dieghernan/chulapa
 # Overall options for your site, would affect your site SEO
 # Default values are explained
 locale                  : en-US    #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
-title                   : Personal Webasite    #default["repository_name"]
+title                   : Yvan David Hernandez Charpak    #default["repository_name"]
 title_separator         : |    #default [" | "]
-subtitle                : Research    #default [your-repository-tagline]  
-description             : These are my research thematics #default [your-repository-tagline]
+subtitle                : Presonal Website    #default [your-repository-tagline]  
+description             : These a work in progress #default [your-repository-tagline]
 url                     :     #See baseurl - On Github Pages you may leave it blank - If you use CNAME use your domain
 baseurl                 :     #On Github Pages you may leave it blank. Have a look to: https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 words_per_minute        : 200    #default[200]
@@ -99,24 +99,17 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
-  - title   : Blog # Label
-    url     : /blog/ # url	
-  - title   : Cheatsheets
-    url     : /cheatsheets
-  - title   : Extras
+  - title   : About me # Label
+    url     : /about/ # url	
+  - title   : Research
+    url     : /research
+  - title   : Coding
     child   :
-      - title : Tags
-        url   : /tags
-      - title : Categories
-        url   : /categories
-      - title : Archive
-        url   : /archive
-      - title : Current skin
-        url   : /current-skin
-  - title   : Docs
-    url     : https://dieghernan.github.io/chulapa/docs/01-install
-  - title   : Use this template
-    url     : https://github.com/dieghernan/chulapa-101/generate
+      - title : Thermal Analysis
+        url   : /thermalCodes
+      - title : TEA-LCA visuals
+        url   : /TEALCA
+
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		
@@ -128,11 +121,18 @@ footer:
   links:
     - label : Repo on Github # Label
       icon  : fab fa-github # Fontawesome 5 icon
-      url   : https://github.com/dieghernan/chulapa-101 # A link or email: https://twitter.com/jack, mail@example.com
+      url   : https://github.com/YvanDavidHerChar # A link or email: https://twitter.com/jack, mail@example.com
+    - label : "My Linkedin"
+      icon : fab fa-linkedin
+      url:  https://www.linkedin.com/in/ydhc/ #A link or email: https://twitter.com/jack, mail@example.com
+      icon: fab fa-linkedin # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
+    - label: "My Linkedin" #A link or email: https://twitter.com/jack, mail@example.com
+      icon: fab fa-twitter # A Fontawesome 5 code: fab fa-twitter - see https://fontawesome.com/
+      url:  https://twitter.com/YvanDavidHernan
     - label: "RSS"
       icon: "fa fa-rss"
       url:  "./atom.xml"
-  copyright: © <2023> <YDHC> # default is © <year> <name> 
+  copyright: © 2023-YDHC # default is © <year> <name> 
   
 # C. Theme Settings
 # Google Fonts https://fonts.google.com/, add as many as you need
