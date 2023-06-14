@@ -102,8 +102,10 @@ navbar:
   - title   : My projects 
     url     : /projects
     child   :
+      - title : Projects explanation
+        url   : /projects
       - title : Timeline
-        url   : /timeline        
+        url   : projects/timeline        
   - title   : Research
     url     : /research
   - title   : Ressources
