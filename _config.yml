@@ -95,7 +95,7 @@ navbar:
   style     : fab #default is the classical top navbar, set "fab" for a floating action button navbar or "dual"
   expand    : sm  # At which device size expand the navbar menu. default[md] https://getbootstrap.com/docs/4.5/layout/overview/
   brand:
-    title   : Where do you want to go? # Title in navbar
+    title   : # Title in navbar
     url     :  # default["url/baseurl"]
     img     :  ./pictures/search.png   # An small image, try 30x30px
   nav:
