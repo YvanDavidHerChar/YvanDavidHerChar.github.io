@@ -99,8 +99,8 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
-  - title   : My projects # Label
-    url     : /projects # url	
+  - title   : My projects 
+    url     : /projects 
   - title   : Research
     url     : /research
   - title   : Ressources
