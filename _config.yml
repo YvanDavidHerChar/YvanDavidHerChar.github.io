@@ -8,7 +8,7 @@ remote_theme: dieghernan/chulapa
 # Overall options for your site, would affect your site SEO
 # Default values are explained
 locale                  : en-US    #default["en-US"] format language-TERRITORY , e.g fr, en-GB, es-MX, pt-BR
-title                   : Yvan David Hernandez Charpak    #default["repository_name"]
+title                   : Yvan David Hernandez-Charpak    #default["repository_name"]
 title_separator         : |    #default [" | "]
 subtitle                : Personal Website    #default [your-repository-tagline]  
 description             : This is a work in progress #default [your-repository-tagline]
@@ -100,7 +100,10 @@ navbar:
     img     :  ./pictures/search.png   # An small image, try 30x30px
   nav:
   - title   : My projects 
-    url     : /projects 
+    url     : /projects
+    child   :
+      - title : Timeline
+        url   : /timeline        
   - title   : Research
     url     : /research
   - title   : Ressources
@@ -169,8 +172,8 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "default"
-      header_type: "base"
+      layout: minimal
+      header_type: splash
       include_on_search   : false
       cloudtag_url        : /tags #This is where the link on tags would redirect
       cloudcategory_url   : /categories #This is where the link on categories would redirect
