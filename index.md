@@ -1,5 +1,5 @@
 ---
-og_image : ./pictures/IMG_20190730_143727.jpg
+header_img : ./pictures/IMG_20190730_143727.jpg
 layout: default
 title: An adventure through research, innovation and the world
 header_type: hero
