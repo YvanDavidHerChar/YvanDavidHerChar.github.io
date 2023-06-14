@@ -1,5 +1,5 @@
 ---
-og_image : "./pictures/IMG_20190730_143727.jpg"
+og_image : ./pictures/IMG_20190730_143727.jpg
 layout: default
 title: An adventure through research, innovation and the world
 header_type: hero
@@ -10,11 +10,11 @@ Hello! My name is Yvan David Hernandez-Charpak, a french-colombian scientist, ad
 ![image info](./pictures/313909702_10159286209033129_5418244148726713063_n.jpg)
 This site will layout my work, my research and provide some (hopefully usefull) ressources. 
 
-[My project](./projects) is to change the way you think about waste. Through **biochar**, we can consolidate the carbon present in our _organic_ waste (from our agriculture or food waste!). 
+My [**project**](./projects) is to change the way you think about waste. Through **biochar**, we can consolidate the carbon present in our _organic_ waste (from our agriculture or food waste!). 
 
 
 
-My [research](./research) contains the list of my academic publications, from my early 2020 undegraduate projects, up to my PhD articles and (soon!) dissertation! Briefly, I approach thematics like:
+My [**research**](./research) contains the list of my academic publications, from my early 2020 undegraduate projects, up to my PhD articles and (soon!) dissertation! Briefly, I approach thematics similar to:
 - Biochar characterization
 - Biochar production
 - Social Engineering
