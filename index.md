@@ -10,7 +10,7 @@ Hello! My name is Yvan David Hernandez-Charpak, a french-colombian scientist, ad
 ![image info](./pictures/313909702_10159286209033129_5418244148726713063_n.jpg)
 This site will layout my work, my research and provide some (hopefully usefull) ressources. 
 
-My [**project**](./projects) is to change the way you think about waste. Through **biochar**, we can consolidate the carbon present in our _organic_ waste (from our agriculture or food waste!). 
+My [**project**](./projects) is to change the way you think about waste. Through **biochar**, we can consolidate the carbon present in our _organic_ waste (from our agriculture or food waste!). My projects focuses on the value chains for biochar, making it a agent of circular economy and carbon sequestration. 
 
 
 
@@ -26,7 +26,46 @@ My [**research**](./research) contains the list of my academic publications, fro
 - Techno Economical Analysis (TEA) 
 
 If you are interested in learning more about any of these concepts, I would be happy to have a conversation with you! Don't doubt connecting with me through my [LinkedIn](https://www.linkedin.com/in/ydhc/) or my [Twitter](https://twitter.com/YvanDavidHernan)
+Here is a little timeline of my path:
 
+<div class="timeline">
+  <div class="container left">
+    <div class="content">
+      <h2>1995</h2>
+      <p>I arrived in this world in Bogotá Colombia</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2013</h2>
+      <p>I finish my high school at the Lycée Français Louis Pasteur and went to do a enlighting semester long internship at the PER group at CU Boulder</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>2014</h2>
+      <p>Started my Physics studies at Los Andes University in Bogotá</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2015</h2>
+      <p>Added Mechanical Engineering to my studies at Los Andes University</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>2016</h2>
+      <p>Started a year abroad in Saint Petersburg, Russia at Peter the Great Polythechnik University</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2020</h2>
+      <p>Finished my two bachelors of Sciences with a minor of Histroy at Los Andes University and started my PhD in Sustainability at the Rochester Institute of Technology</p>
+    </div>
+  </div>
+</div>
 
 
 
