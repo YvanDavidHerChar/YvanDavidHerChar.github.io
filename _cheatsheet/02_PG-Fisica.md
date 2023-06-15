@@ -10,6 +10,7 @@ La espectroscopía de resonancia ultrasónica es una metodología experimental q
 La medición de dicho espectro de resonancias permite obtener el tensor de constantes elásticas de un material, con lo cual se puede acceder a información detallada sobre transiciones de fase, especialmente, su simetría.
 En este escrito se desarrolla con amplio detalle el proceso de diseño apto para su construcción en la Universidad de los Andes en Bogotá, Colombia. 
 Se describen, adicionalmente, las bases del software disponible en la literatura paramanejar este experimento, haciendo enfasis en las posibilidades de desarrollo en este tema para poder construir uno propio a la Universidad y al experimento
+\\ --- \\
 In english:
 The Resonant Ultrasound Spectroscopy is an experimental methodology with the objective to identify the mechanical resonance modes of any material.
 The obtained spectrum allows the derivation of the elastic tensor of a material. With this tensor and its evolution it is possible to obtain detailed information on the phase transitions and specially the symmetry changes in the material.

@@ -1,7 +1,7 @@
 ---
-layout: indexcategory
+layout: default
+header_img : "../pictures/16112687_10154350803528129_5836470629696960746_o.jpg"
 title: "Timeline"
-include_collection: cheatsheet
 permalink: /projects/timeline
 show_breadcrumb: true
 ---
