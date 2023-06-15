@@ -1,5 +1,5 @@
 ---
-title: Biochar filled plastics: Effect of feedstock on thermal and mechanical properties
+title: Biochar filled plastics Effect of feedstock on thermal and mechanical properties
 subtitle: First Authored publication
 excerpt: Abstract and link
 categories: [Academic]
