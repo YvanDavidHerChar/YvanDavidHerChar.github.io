@@ -32,7 +32,7 @@ Here is a little timeline of my path:
   <div class="container left">
     <div class="content">
       <h2>1995</h2>
-      <p>I arrived in this world in Bogotá Colombia</p>
+      <p>I arrived to this world in Bogotá Colombia</p>
     </div>
   </div>
   <div class="container right">
@@ -65,7 +65,7 @@ Here is a little timeline of my path:
       <p>Finished my two bachelors of Sciences with a minor of Histroy at Los Andes University and started my PhD in Sustainability at the Rochester Institute of Technology</p>
     </div>
   </div>
-</div>
+
 
 
 Hopefully you can find something usefull here! Thanks for stopping by. 
