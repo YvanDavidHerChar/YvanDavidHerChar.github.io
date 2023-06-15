@@ -68,7 +68,7 @@ Here is a little timeline of my path:
 </div>
 
 
-
+Hopefully you can find something usefull here! Thanks for stopping by. 
 
  
 <!---
