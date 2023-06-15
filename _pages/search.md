@@ -1,7 +1,7 @@
 ---
 layout: search
 title: Search
-subtitle: 
+subtitle: Searching for something?
 permalink: /search.html
 ---
 

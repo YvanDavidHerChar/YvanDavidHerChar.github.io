@@ -114,6 +114,8 @@ navbar:
         url   : /thermalCodes
       - title : TEA-LCA visuals
         url   : /TEALCA
+      - title : Random productions
+        url   : /Random
 
 #  - title   : # Label submenu
 #    child:		

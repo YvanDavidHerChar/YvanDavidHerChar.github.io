@@ -6,4 +6,4 @@ permalink: /projects/timeline
 show_breadcrumb: true
 ---
 
-If it is first time using `markdown` and `jekyll`, you may find this pages useful.
+Here is a timeline of where the project was and is. You can follow me or contact me to know more!
