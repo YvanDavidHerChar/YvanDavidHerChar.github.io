@@ -49,12 +49,12 @@
 
 /* Place the container to the left */
 .left {
-  left: -50%;
+  left: -25%;
 }
 
 /* Place the container to the right */
 .right {
-  left: 0%;
+  left: 25%;
 }
 
 /* Add arrows to the left container (pointing right) */
@@ -102,7 +102,7 @@
 @media screen and (max-width: 600px) {
 /* Place the timelime to the left */
   .timeline::after {
-    left: 31px;
+    left: 50%;
   }
 
 /* Full-width containers */
