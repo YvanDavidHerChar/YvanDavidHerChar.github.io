@@ -49,12 +49,12 @@
 
 /* Place the container to the left */
 .left {
-  left: -25%;
+  left: -24%;
 }
 
 /* Place the container to the right */
 .right {
-  left: 25%;
+  left: 26%;
 }
 
 /* Add arrows to the left container (pointing right) */
@@ -66,7 +66,7 @@
   width: 0;
   z-index: 1;
   right: 30px;
-  border: Ivory;
+  border: azure;
   border-width: 10px 0 10px 10px;
   border-color: transparent transparent transparent white;
 }
@@ -80,7 +80,7 @@
   width: 0;
   z-index: 1;
   left: 30px;
-  border: Ivory;
+  border: azure;
   border-width: 10px 10px 10px 0;
   border-color: transparent white transparent transparent;
 }
@@ -88,12 +88,14 @@
 /* Fix the circle for containers on the right side */
 .right::after {
   left: -16px;
+  background-color: white;
+  border-radius: 50%;
 }
 
 /* The actual content */
 .content {
   padding: 20px 30px;
-  background-color: white;
+  background-color: azure;
   position: relative;
   border-radius: 6px;
 }
@@ -102,7 +104,7 @@
 @media screen and (max-width: 600px) {
 /* Place the timelime to the left */
   .timeline::after {
-    left: 50%;
+    left: 30px;
   }
 
 /* Full-width containers */
@@ -115,7 +117,7 @@
 /* Make sure that all arrows are pointing leftwards */
   .container::before {
     left: 60px;
-    border: Ivory;
+    border: azure;
     border-width: 10px 10px 10px 0;
     border-color: transparent white transparent transparent;
   }
