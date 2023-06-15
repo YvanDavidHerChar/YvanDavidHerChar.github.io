@@ -9,10 +9,10 @@ subtitle: A step towards a low-carbon waste society
 ---
 
 # Hello! Here we go!
-## It's a first try
+## The idea is to organize the logistics for a sustainable society
  
  
 >index gogo
 
-is it ==over==.
+Remember all the science and technology for us to transition is already here! We just have to work hard on the depolyment! More funding for new sustainable companies!
 ![image info](../pictures/IMG_20190616_124000.jpg)

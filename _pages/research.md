@@ -7,4 +7,4 @@ permalink: /research
 show_breadcrumb: true
 ---
 
-Where are you?
+Any question on any of these works I can help you out, just contact me!
