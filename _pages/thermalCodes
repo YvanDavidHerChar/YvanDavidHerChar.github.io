@@ -1,0 +1,23 @@
+---
+header_img : "../pictures/Teracube_20221225_0843_251.jpg"
+layout: default
+title: Thermal Analysis
+header_type: hero
+permalink: /thermalCodes
+show_breadcrumb: true
+subtitle: Depicting thermal properties with Python
+---
+
+# Differential Scanning Calorimetry 
+It depends on how your instrument exports the data. Mine in particular, exports .csv files with the three columns. /textit{Time} ; /textit{Temperature} and /textit{Heat flow}. 
+It will also seperate by steps of the proceedure (Heating , cooling, isotherms, etc. ), so we have to stick it together and remember where are the limits between steps. 
+
+
+## Arrhenius Equation
+ 
+ 
+ 
+>index gogo
+
+Remember all the science and technology for us to transition is already here! We just have to work hard on the depolyment! More funding for new sustainable companies!
+![image info](../pictures/Teracube_20221225_0843_251.jpg)
