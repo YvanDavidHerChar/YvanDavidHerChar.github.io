@@ -111,11 +111,11 @@ navbar:
   - title   : Ressources
     child   :
       - title : Thermal Analysis
-        url   : /thermalCodes
+        url   : https://github.com/YvanDavidHerChar
       - title : TEA-LCA visuals
-        url   : /TEALCA
+        url   : https://github.com/YvanDavidHerChar
       - title : Random productions
-        url   : /Random
+        url   : https://github.com/YvanDavidHerChar
 
 #  - title   : # Label submenu
 #    child:		
