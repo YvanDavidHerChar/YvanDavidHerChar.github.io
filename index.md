@@ -6,8 +6,8 @@ header_type: hero
 subtitle: About this site
 ---
 
-Hello! My name is Yvan David Hernandez-Charpak, a french-colombian scientist, adventurer, traveler and person.  I like hiking, traveling, working and exploring new experiences. I am curently a PhD candidate in Sustainability at the Rochester Institute of Technology.
-![image info](./pictures/313909702_10159286209033129_5418244148726713063_n.jpg)
+Hello! My name is Yvan David Hernandez-Charpak, a french-colombian scientist, entrepreneur, adventurer, traveler and person. I am curently a PhD candidate in Sustainability at the Rochester Institute of Technology.
+![image info](./pictures/313909702_10159286209033129_5418244148726713063_n.jpg){: width="500" height="300"}
 This site will layout my work, my research and provide some (hopefully usefull) ressources. 
 
 My [**project**](./projects) is to change the way you think about waste. Through **biochar**, we can consolidate the carbon present in our _organic_ waste (from our agriculture or food waste!). My projects focuses on the value chains for biochar, making it a agent of circular economy and carbon sequestration. 
@@ -63,6 +63,12 @@ Here is a little timeline of my path:
     <div class="content">
       <h2>2020</h2>
       <p>Finished my two bachelors of Sciences with a minor of Histroy at Los Andes University and started my PhD in Sustainability at the Rochester Institute of Technology</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>2024</h2>
+      <p>Finishing my PhD in Sustainability with a graduate certificate in Applied Statistics at the Rochester Institute of Technology</p>
     </div>
   </div>
 </div>

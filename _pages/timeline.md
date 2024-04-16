@@ -6,4 +6,4 @@ permalink: /projects/timeline
 show_breadcrumb: true
 ---
 
-Here is a timeline of where the project was and is. You can follow me or contact me to know more!
+Here we are at the end of my PhD and ready for the next step. Here is the proposed timeline for the Colombian Sustainable Waste (CSW) path. 
