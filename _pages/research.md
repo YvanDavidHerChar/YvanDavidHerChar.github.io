@@ -4,7 +4,7 @@ layout: indexcategory
 title: Research work
 include_collection: cheatsheet
 permalink: /research
-show_breadcrumb: true
+show_breadcrumb: false
 ---
 
 Any question on any of these works I can help you out, just contact me!
