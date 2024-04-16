@@ -1,7 +1,7 @@
 ---
 title: Implementación de un experimento de espectroscopía de resonancia ultrasónica en la Universidad de los Andes
 subtitle: My undergraduate project in Physics
-excerpt: Abstract and link
+excerpt: 13-06-2020
 categories: [Academic]
 tags: [Resonant Ultrasonic Sprectroscopy,design, Elasticity tensor]
 ---

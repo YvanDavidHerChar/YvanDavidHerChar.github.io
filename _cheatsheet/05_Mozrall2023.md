@@ -1,7 +1,7 @@
 ---
 title: Effect of biochar content and particle size on mechanical properties of biochar-bioplastic composites
 subtitle: Second Authored publication
-excerpt: Abstract and link
+excerpt: 23-10-2023
 categories: [Academic]
 tags: [Biochar,Particle size,Rigid composites,Bioplastic,Poly (lactic acid),Starch]
 ---

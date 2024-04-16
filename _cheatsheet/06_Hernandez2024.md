@@ -1,7 +1,7 @@
 ---
 title: Biochar as a sustainable alternative to carbon black in agricultural mulch films
 subtitle: First Authored publication
-excerpt: Abstract and link
+excerpt: 24-12-2023
 categories: [Academic]
 tags: [Biochar,Plastic films,Carbon black,PBAT,Life cycle assessment,Techno-economic analysis]
 ---

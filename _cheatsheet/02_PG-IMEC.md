@@ -1,7 +1,7 @@
 ---
 title: Un diseño participativo de ingeniería para caracterizar las problemáticas alrededor del cultivo de papa en la región del Guavio.
 subtitle: My undergraduate project in Mechanical Engineering
-excerpt: Abstract and link
+excerpt: 01-06-2020
 categories: [Academic]
 tags: [social engineering,water,agriculture]
 ---
